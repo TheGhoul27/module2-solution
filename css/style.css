@@ -5,7 +5,7 @@
 	width: 100%;
 }
 p {
-	overflow: scroll;
+	overflow: auto;
 }
 
 @media (max-width: 767px) {
