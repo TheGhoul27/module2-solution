@@ -191,6 +191,7 @@ section > h2 {
 	right: 0px;
 	width: 200px;
 	text-align: center;
+	overflow: auto;
 }
 
 section > p {
