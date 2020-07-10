@@ -4,6 +4,9 @@
 .row {
 	width: 100%;
 }
+p {
+	overflow: scroll;
+}
 
 @media (max-width: 767px) {
 	.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6,
@@ -191,7 +194,6 @@ section > h2 {
 	right: 0px;
 	width: 200px;
 	text-align: center;
-	overflow: auto;
 }
 
 section > p {
